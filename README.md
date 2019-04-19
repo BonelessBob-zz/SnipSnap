@@ -17,3 +17,5 @@ Now you just press
 **Control+Shift+3**
 
 The text will automatically get saved to yout clipboard, but it will also appear in the command prompt
+
+![](SnipSnapTutorial.gif)
