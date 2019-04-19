@@ -5,7 +5,7 @@ Text from image using Google's Tesseract OCR
 Open exe file (dist/SnipSnap.exe)
 
 ### Step 2:
-Pretend there is a box arond the text you want to select. Place your mouse in the upper left corner of that box and press
+Pretend there is a box around the text you want to select. Place your mouse in the upper left corner of that box and press
 **Control+Shift+1**
 
 ### Step 3:
